@@ -1,4 +1,17 @@
 # Just Java
- This Udacity course, you learn all the basics of java and how to build up a coffee ordering app. The app will take in details and when the user places their order. The information the app collected goes into the email app ready to send to the coffee shop.
+## Learnt by Udacity – Android Development for Beginners
 
-Check the releases to download and test the app on your device!
+## Project Overview 
+In this project, we will create an app that will take in the user’s name and if they want any topping on their coffee. There is a counter at the bottom for how many coffees the user wants. One the user presses order then the app will take that information and instantiate in to the user’s mail app, ready to send off the order.
+
+In this project we will cover the following topics:
+- **Check Views**
+- **Linked Views to methods**
+- **Different selection of drinks changes the price**
+- **Updating views**
+- **Using intent to another app**
+
+Assets used by **NO ASSETS IN THIS PROJECT**.
+Check the **Releases** for the final project.
+
+This Project is now closed!
